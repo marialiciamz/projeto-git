@@ -1,2 +1,2 @@
-primeiro texto
+primeiro texto.
 Adicionar uma nova linha ao arquivo.
